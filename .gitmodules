@@ -1,0 +1,18 @@
+[submodule "hump"]
+	path = hump
+	url = https://github.com/vrld/hump.git
+[submodule "Simple-Tiled-Implementation"]
+	path = Simple-Tiled-Implementation
+	url = https://github.com/karai17/Simple-Tiled-Implementation.git
+[submodule "json.lua"]
+	path = json.lua
+	url = https://github.com/rxi/json.lua
+[submodule "json"]
+	path = json
+	url = https://github.com/rxi/json.lua
+[submodule "anim8"]
+	path = anim8
+	url = https://github.com/kikito/anim8.git
+[submodule "HC"]
+	path = HC
+	url = https://github.com/vrld/HC
